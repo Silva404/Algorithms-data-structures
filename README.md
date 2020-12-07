@@ -1,6 +1,11 @@
 # Data Structures
- - Linkedlist
- - [x] Implementation
- - [ ] Insert a new node at first position
- - [ ] Delete a node at given key
- - [ ] Delete a node at given position
+ - [/] Linkedlist
+    - [ ] Singly Linked List
+    - [ ] Circular Linked List
+    - [ ] Doubly Linked List
+ - [ ] Stack
+ - [ ] Queue
+ - [ ] Binary Tree
+ - [ ] Binary Search Tree
+ - [ ] Heap
+ - [ ] Hashing
